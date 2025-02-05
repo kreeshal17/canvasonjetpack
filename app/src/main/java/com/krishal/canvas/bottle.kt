@@ -29,7 +29,7 @@ import androidx.compose.ui.unit.dp
 
 
 @Composable
-fun bottle()
+fun bottleee()
 {
     var waterprogress by remember {
         mutableStateOf(0.2f)
